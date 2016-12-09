@@ -1,0 +1,31 @@
+{
+  "name": "seekjs-plugin",
+  "version": "1.0.0",
+  "description": "some seekjs plugin by official",
+  "scripts": {
+    "test": "echo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/likaituan/seekjs-plugin.git"
+  },
+  "keywords": [
+    "seekjs",
+    "plugin"
+  ],
+  "author": "Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/likaituan/seekjs-plugin/issues"
+  },
+  "homepage": "https://github.com/likaituan/seekjs-plugin#readme",
+  "dependencies": {
+    "jquery": "latest",
+    "seekjs": "latest",
+    "seekjs-plugin-autocomplete": "latest",
+    "seekjs-plugin-datepicker": "latest",
+    "seekjs-plugin-dialog": "1.0.8",
+    "seekjs-plugin-flow": "latest",
+    "seekjs-plugin-mask": "latest"
+  }
+}
