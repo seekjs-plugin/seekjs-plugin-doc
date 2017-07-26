@@ -30,7 +30,7 @@ var langPack =  {
     message: "your message is"
 };
 
-app.usePlugin("seekjs-plugin-mask", {display:false});
-app.usePlugin("seekjs-plugin-dialog", {id:"dialog", lang:"en", langPack, display:false});
+app.usePlugin("sk2-plugin-mask", {display:false});
+app.usePlugin("sk2-plugin-dialog", {id:"dialog", lang:"en", langPack, display:false});
 
 app.init("home");

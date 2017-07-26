@@ -22,7 +22,6 @@
   "dependencies": {
     "express": "latest",
     "jquery": "latest",
-    "seekjs": "github:seekjs/seekjs",
     "sk2-plugin-autocomplete": "github:seekjs/sk2-plugin-autocomplete",
     "sk2-plugin-datepicker": "github:seekjs/sk2-plugin-datepicker",
     "sk2-plugin-dialog": "github:seekjs/sk2-plugin-dialog",
