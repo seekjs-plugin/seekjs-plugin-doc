@@ -1,5 +1,5 @@
 {
-  "name": "sk2-plugin-doc",
+  "name": "seek2-plugin-doc",
   "version": "1.0.0",
   "description": "some seekjs plugin by official",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/seekjs/sk2-plugin-doc.git"
+    "url": "git+ssh://git@github.com/seekjs/seek2-plugin-doc.git"
   },
   "keywords": [
     "seekjs",
@@ -16,16 +16,16 @@
   "author": "Li",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/seekjs/sk-plugin-doc/issues"
+    "url": "https://github.com/seekjs/seek2-plugin-doc/issues"
   },
-  "homepage": "https://github.com/seekjs/sk2-plugin-doc#readme",
+  "homepage": "https://github.com/seekjs/seek2-plugin-doc#readme",
   "dependencies": {
     "express": "latest",
     "jquery": "latest",
-    "sk2-plugin-autocomplete": "github:seekjs/sk2-plugin-autocomplete",
-    "sk2-plugin-datepicker": "github:seekjs/sk2-plugin-datepicker",
-    "sk2-plugin-dialog": "github:seekjs/sk2-plugin-dialog",
-    "sk2-plugin-flow": "github:seekjs/sk2-plugin-flow",
-    "sk2-plugin-mask": "github:seekjs/sk2-plugin-mask"
+    "sk2-plugin-autocomplete": "github:seekjs/seek2-plugin-autocomplete",
+    "sk2-plugin-datepicker": "github:seekjs/seek2-plugin-datepicker",
+    "sk2-plugin-dialog": "github:seekjs/seek2-plugin-dialog",
+    "sk2-plugin-flow": "github:seekjs/seek2-plugin-flow",
+    "sk2-plugin-mask": "github:seekjs/seek2-plugin-mask"
   }
 }
